@@ -1,0 +1,41 @@
+.container{
+    background-color: antiquewhite;
+}
+.gallery{
+    margin-left: 40vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.snapshot{
+    margin-left: 60vh;
+    font-weight: 200;
+    font-style: italic;
+    font-size: 50px;
+}
+.btn{
+    margin-left: 1vh;
+}
+.input{
+    margin-left: 60vh;
+    margin-bottom: 2vh;
+}
+.mountain{
+    margin-left: 40vh;
+}
+.foods{
+    margin-left: 10vh;
+}
+.beaches{
+    margin-left: 10vh;
+}
+.birds{
+    margin-left: 10vh;
+}
+.type{
+    margin-left: 60vh;
+}
+.images{
+    width: fit-content;
+}
